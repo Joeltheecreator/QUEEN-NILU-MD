@@ -14,20 +14,20 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;YjZHFAyY#ngYcEwkrPb-sQKaYuYETNz0-HVzc6qzIbZGOBV-23Fs' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://reborn_user:V8WUlIdjnF4jWjlSR4wJcekFScqUwbRd@dpg-ckq14h85vl2c73d28oo0-a.frankfurt-postgres.render.com/reborn'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '2348110961623'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'REBORN'
 
-global.TIMEZONE = 'Asia/Colombo' 
+global.TIMEZONE = 'NIGERIA' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
@@ -43,19 +43,19 @@ global.OPENAI_API_KEY = "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"
 
 global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = 'REBORN 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@Reborn 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = 'REBORN  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/c89c6bae557601c3d9acc.jpg' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = '' // Set Alive Message
 
@@ -67,7 +67,7 @@ global.ANTI_BAD_ACTION = false
 
 global.ANTI_LINK = true //Anti Link (on = True , Off = False )
 
-global.ANTI_BOTS = true
+global.ANTI_BOTS = false
 
 global.ONLY_GROUP = 'false' // Only group mode
 
@@ -89,6 +89,6 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.location = "Srilanka, colombo" //ur location
+global.ytname = "YT: Reborn2104" //ur yt chanel name
+global.socialm = "GitHub: Reborn2104" //ur github or insta name
+global.location = "Nigeria" //ur location
